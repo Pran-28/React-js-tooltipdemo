@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.headers{
+  display: flex;
+  margin: 30px
+}
+
+.customInput{
+  padding: 10px;
+  width: 100%;
+}
+
+.customButton{
+  width: fit-content;
+  padding: 10px;
+  margin-left: 5px;
+
+}
+
+.todosItem{
+  display: flex;
+  background-color: red;
+  padding: 15px;
+  margin: 10px;
+  justify-content: space-between;
+}
+
+.editf{
+  background-color: aqua;
+}
